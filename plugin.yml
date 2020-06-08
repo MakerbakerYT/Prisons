@@ -1,0 +1,7 @@
+name: ClassicPrison
+description: FallenMc classic prison plugin
+authors:
+  - "Kingbobs"
+version: 0.0.1_ALPHA
+main: \classicprison\Main
+api: [3.0.0, 4.0.0]
